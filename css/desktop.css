@@ -1,0 +1,33 @@
+
+/** CSS FOOTER **/
+
+.container-footer nav {
+    display: flex;
+    justify-content: flex-start;
+
+}
+footer{
+    background: #F2F2F2;
+
+}
+nav .item{
+    width: 33.33%;
+    width: 446.67px;
+    height: 163px;
+    padding: 20px;
+    gap: 15px;
+
+
+}
+.item .titre{
+    font-weight: 700;
+    size: 18px;
+    line-height:21px;
+
+}
+.item .sous-titre {
+    font-weight: 400 ;
+    size: 16px;
+    line-height:18.78px ;
+    margin-top: 15px;
+}
